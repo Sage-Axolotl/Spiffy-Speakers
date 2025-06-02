@@ -1,5 +1,4 @@
 Adds speakers that play sounds when on note blocks. Most of these sounds are ambient sounds.  
-Recipes in gallery.
 
 ---
 ### Credits
